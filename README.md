@@ -13,7 +13,7 @@
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node-%3E%3D22-brightgreen" alt="Node.js"></a>
 </p>
 
-<p align="center"><b>Write HTML. Render video. Built for agents.</b></p>
+<p align="center"><b>Write with HTML. Render video. Built for agents.</b></p>
 
 <p align="center">
   <img src="https://static.heygen.ai/hyperframes-oss/docs/images/readme-demo.gif" alt="HyperFrames demo — HTML code on the left transforms into a rendered video on the right" width="800">
